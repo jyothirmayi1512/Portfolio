@@ -1192,6 +1192,13 @@
             .container {
                 padding: 0 1rem;
             }
+
+                .about-image slide-in-left {
+                   height: 400px;
+                }
+               .aboutimg {
+                      height: 400px;
+               }
         }
 
 
@@ -1506,3 +1513,4 @@ section {
   color: #fff;
   text-decoration: underline;
 }
+
