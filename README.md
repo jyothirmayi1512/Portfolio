@@ -78,6 +78,9 @@ Add screenshots here (homepage, about, skills, projects, contact form).
 # 📧 Contact
 
 👤 Nandyala Jyothirmayi Reddy
+
 📍 B.Tech Student – Artificial Intelligence & Data Science
+
 💼 Linkedin:Click [Here](https://www.linkedin.com/in/jyothirmayi-reddy-nandyala-a46362284/)
+
 ✉️ Email: [jyothirmayireddynandyala@gmail.com]
